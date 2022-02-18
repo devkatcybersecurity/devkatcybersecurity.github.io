@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/devkatcybersecurity/devkatcybersecurity/public/index.html/static/css/main.073c9b0a.css",
-    "main.js": "/devkatcybersecurity/devkatcybersecurity/public/index.html/static/js/main.d5ba6638.js",
-    "static/js/787.1ed0c42c.chunk.js": "/devkatcybersecurity/devkatcybersecurity/public/index.html/static/js/787.1ed0c42c.chunk.js",
-    "static/media/logo.svg": "/devkatcybersecurity/devkatcybersecurity/public/index.html/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/devkatcybersecurity/devkatcybersecurity/public/index.html/index.html",
-    "main.073c9b0a.css.map": "/devkatcybersecurity/devkatcybersecurity/public/index.html/static/css/main.073c9b0a.css.map",
-    "main.d5ba6638.js.map": "/devkatcybersecurity/devkatcybersecurity/public/index.html/static/js/main.d5ba6638.js.map",
-    "787.1ed0c42c.chunk.js.map": "/devkatcybersecurity/devkatcybersecurity/public/index.html/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/devkatcybersecurity/portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/devkatcybersecurity/portfolio/static/js/main.2e4f1111.js",
+    "static/js/787.1ed0c42c.chunk.js": "/devkatcybersecurity/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/logo.svg": "/devkatcybersecurity/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/devkatcybersecurity/portfolio/index.html",
+    "main.073c9b0a.css.map": "/devkatcybersecurity/portfolio/static/css/main.073c9b0a.css.map",
+    "main.2e4f1111.js.map": "/devkatcybersecurity/portfolio/static/js/main.2e4f1111.js.map",
+    "787.1ed0c42c.chunk.js.map": "/devkatcybersecurity/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d5ba6638.js"
+    "static/js/main.2e4f1111.js"
   ]
 }
